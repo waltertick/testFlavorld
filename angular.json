@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "testFlavorld"
+    }
+  },
+  "defaultProject": "testFlavorld",
+  "cli": {
+    "analytics": "434c8ed7-41b1-44bb-9ddf-e9e67017f23c"
+  }
 }
